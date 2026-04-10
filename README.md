@@ -29,8 +29,8 @@ Projeyi yerel ortamınızda çalıştırmak için şu adımları izleyebilirsini
    git clone [https://github.com/frttkarakurt/ChatAppApi.git](https://github.com/frttkarakurt/ChatAppApi.git)
 Gerekli bağımlılıkları yükleyin:
 
-```bash
-dotnet restore
+   ```bash
+   dotnet restore
 
 Yapılandırma:
 appsettings.json dosyasını kendi Supabase URL ve Key bilgilerinizle güncelleyin.
