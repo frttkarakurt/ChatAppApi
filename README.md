@@ -43,14 +43,3 @@ Bu proje, sadece bir ödev veya hobi projesi değil; global pazara açılması h
 
 ⚖️ Lisans
 Bu proje Apache License 2.0 ile lisanslanmıştır.
-'@
-
-Set-Content -Path "README.md" -Value $readme -Encoding UTF8
-
-
-Sonrasında yine şu komutlarla GitHub'a gönderebilirsin:
-
-```bash
-git add README.md
-git commit -m "README.md icerigi ChatAppApi olarak guncellendi"
-git push
