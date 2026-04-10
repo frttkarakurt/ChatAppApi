@@ -37,7 +37,7 @@ appsettings.json dosyasını kendi Supabase URL ve Key bilgilerinizle güncelley
 
 Projeyi çalıştırın:
 
-Bash
+```bash
 dotnet run
 📈 Hedefler
 Bu proje, sadece bir ödev veya hobi projesi değil; global pazara açılması hedeflenen profesyonel bir uygulamanın ilk adımıdır.
